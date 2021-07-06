@@ -1,0 +1,10 @@
+ETF_Ticker,ETF_Asset_Class,ETF_Geography,ETF_Name,Model_Portfolio_1,Model_Portfolio_2,Model_Portfolio_3,Model_Portfolio_4,Model_Portfolio_5,Model_Portfolio_6,Model_Portfolio_7
+IAGG,Fixed Income,International,iShares Core International Aggregate Bond ETF,0.25,0.25,0.22,0.12,0.08,0.00,0.00
+IEFA,Equity,International,iShares Core MSCI EAFE ETF,0.00,0.05,0.12,0.18,0.24,0.31,0.33
+IEMG,Equity,Emerging Market,iShares Core MSCI Emerging Markets ETF,0.00,0.00,0.00,0.04,0.05,0.06,0.10
+IJH,Equity,US,iShares Core S&P Mid-Cap ETF,0.00,0.00,0.00,0.00,0.05,0.10,0.15
+IJR,Equity,US,iShares Core S&P Small-Cap ETF,0.00,0.00,0.03,0.03,0.03,0.03,0.04
+IMTB,Fixed Income,US,iShares Core 5-10 Year USD Bond ETF,0.13,0.09,0.05,0.09,0.08,0.05,0.00
+ISTB,Fixed Income,US,iShares Core 1-5 Year USD Bond ETF,0.52,0.46,0.33,0.24,0.14,0.10,0.00
+IVV,Equity,US,iShares Core S&P 500 ETF,0.10,0.15,0.25,0.30,0.30,0.31,0.32
+USRT,Real Estate,US,iShares Core U.S. REIT ETF,0.00,0.00,0.00,0.00,0.03,0.04,0.06
